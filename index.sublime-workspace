@@ -32,7 +32,7 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 130.0,
 		"history":
 		[
 		]
@@ -48,23 +48,24 @@
 	},
 	"file_history":
 	[
+		"/Users/Shipra/Downloads/dimension/index.html",
+		"/Users/Shipra/Downloads/dimension/assets/css/main.css",
 		"/Users/Shipra/Downloads/dimension/documents/1.pdf",
 		"/Users/Shipra/Downloads/dimension/assets/sass/main.scss",
 		"/Users/Shipra/Downloads/dimension/assets/css/noscript.css",
 		"/Users/Shipra/Downloads/dimension/assets/css/ie9.css",
 		"/Users/Shipra/Desktop/College.html",
-		"/Users/Shipra/Downloads/dimension/index.html",
 		"/Users/Shipra/Downloads/html5up-massively/index.html",
 		"/Users/Shipra/Downloads/html5up-massively/assets/css/font-awesome.min.css",
 		"/Users/Shipra/Downloads/Untitled Diagram.xml"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 101.0,
 		"where_history":
 		[
 		]
